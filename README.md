@@ -24,7 +24,7 @@ https://en.wikipedia.org/wiki/Action_plan
 
 ## 📄 Articles
 ### 0️⃣ asana.com 
-2025 [Создайте план действий, который будет стимулировать результаты](https://asana.com/ru/resources/action-plan)       
+2025 **[Создайте план действий, который будет стимулировать результаты](https://asana.com/ru/resources/action-plan)**                     
 <img src="https://github.com/ivgnk/Free-software-information/blob/master/Projects/2025_SMART.webp" width=900>        
 Шаг 1: Установите SMART цель              
 Шаг 2: Определите задачи                   
@@ -34,4 +34,17 @@ https://en.wikipedia.org/wiki/Action_plan
 Шаг 6: Контролируйте и пересматривайте свой план действий               
 
 План действий vs план B vs план проекта vs. список дел
+
+План действий vs план проекта
+План проекта включает семь элементов:
+- Цели проекта https://asana.com/ru/resources/how-project-objectives                    
+- Метрики успеха https://asana.com/ru/resources/success-metrics-examples             
+- Заинтересованные стороны https://asana.com/ru/resources/project-stakeholder и роли https://asana.com/ru/resources/raci-chart               
+- Область https://asana.com/ru/resources/project-scope и бюджет https://asana.com/ru/resources/project-budget             
+- Вехи https://asana.com/ru/resources/project-milestones и доставка https://asana.com/ru/resources/what-are-project-deliverables                
+- Временная https://asana.com/ru/resources/create-project-management-timeline-template и график https://asana.com/ru/resources/project-timeline-schedules            
+- План коммуникации https://asana.com/ru/resources/communication-plan                
+
+Как успешно реализовать свой план действий
+
 - - -
