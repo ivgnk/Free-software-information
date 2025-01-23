@@ -6,7 +6,7 @@ https://ru.wikipedia.org/wiki/Портал:Свободное_программн
 https://en.wikipedia.org/wiki/Free_software                       
 https://ru.wikipedia.org/wiki/Свободное_программное_обеспечение                                 
 
-# 🏠 GitHub           
+## 🏠 GitHub           
 
 
 # ✳️ Projects
