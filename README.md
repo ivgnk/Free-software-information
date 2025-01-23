@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/Category:Automated_planning_and_scheduling
 https://en.wikipedia.org/wiki/Action_plan            
 <!---- https://en.wikipedia.org/wiki/Category:Action_plans              -->
 
-## Articles
+## 📄 Articles
 ### 0️⃣ asana.com 
 2025 [Создайте план действий, который будет стимулировать результаты](https://asana.com/ru/resources/action-plan)       
 <img src="https://github.com/ivgnk/Free-software-information/blob/master/Projects/2025_SMART.webp" width=900>        
