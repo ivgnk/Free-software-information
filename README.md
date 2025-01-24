@@ -6,6 +6,13 @@ https://ru.wikipedia.org/wiki/Портал:Свободное_программн
 https://en.wikipedia.org/wiki/Free_software                       
 https://ru.wikipedia.org/wiki/Свободное_программное_обеспечение                                 
 
+https://en.wikipedia.org/wiki/Category:Free_and_open-source_software                   
+https://en.wikipedia.org/wiki/Category:Free_software               
+https://en.wikipedia.org/wiki/Category:Economics_of_intellectual_property
+
+https://en.wikipedia.org/wiki/Free_and_open-source_software                
+**https://en.wikipedia.org/wiki/Business_models_for_open-source_software**        
+
 ## 🏠 GitHub           
 
 
