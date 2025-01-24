@@ -12,6 +12,7 @@ https://en.wikipedia.org/wiki/Category:Economics_of_intellectual_property
 
 https://en.wikipedia.org/wiki/Free_and_open-source_software                
 **https://en.wikipedia.org/wiki/Business_models_for_open-source_software**        
+https://en.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services                  
 
 ## 🏠 GitHub           
 
